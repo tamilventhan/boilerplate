@@ -1,6 +1,2 @@
-// Import Bootstrap's JavaScript components
-import './bootstrap';
-
-// Import other dependencies if needed
-// require('popper.js');
-// window.$ = require('jquery');
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
